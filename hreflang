@@ -1,0 +1,2 @@
+	<link rel="alternate" hreflang="es" href="<?php echo get_permalink('') ;?>" />
+	<link rel="alternate" hreflang="x-default" href="<?php echo get_permalink('') ;?>" />
